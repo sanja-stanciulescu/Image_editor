@@ -1,6 +1,6 @@
 #STANCIULESCU ANA 312CA - 28.12.2023
 
-#####Tema 3#####
+#####Image editor#####
 
 ###Task 1 - LOAD
 	1. Se elibereaza memoria ocupata de imaginea precedenta;
