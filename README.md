@@ -1,4 +1,4 @@
-#STANCIULESCU ANA 312CA - 28.12.2023
+#Ana Stanciulescu 312CA - 28.12.2023
 
 #####Image editor#####
 
