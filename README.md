@@ -1,7 +1,7 @@
 # Photoshop who?
 
 Using the functionalities of Adobe Photoshop as reference, the program is a text editor that supports a set of operations over PPm or PGM-formatted images.
-The main focus of this project lies in the way heap memory is handled, as well as using complex mathematical operations in a more practical context.'\n'
+The main focus of this project lies in the way heap memory is handled, as well as using complex mathematical operations in a more practical context.\n
 The functionalities are as follows:
 
 * LOAD: Frees memory of the previous image, opens a new file, allocates memory based on image type (grayscale or color), and reads the data from the file.
